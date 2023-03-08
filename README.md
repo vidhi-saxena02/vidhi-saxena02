@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Vidhi Saxena</h1>
 <h3 align="center">A zealous developer eager to learn everything</h3>
-<img align="right" alt="Coding" width="300" src="[https://i1.wp.com/tennexas.com/wp-content/uploads/2018/09/Go.gif?zoom=1.25&fit=480%2C480&ssl=1](https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhi-saxena02&label=Profile%20views&color=0e75b6&style=flat" alt="vidhi-saxena02" /> </p>
 
